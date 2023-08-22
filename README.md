@@ -77,5 +77,16 @@ This script facilitates refining models using the CHARMM TrioSA method and subse
 
 Example: `./step05_runref.sh 1A7F.pdb`
 
+# Issue Uploading Source Files for Review Submission
+
+
+It appears that the size limitations set by the submission platform have prevented me from successfully including the convpl, STAP, and CHARMM files alongside my manuscript. Unfortunately, these files are integral to a comprehensive understanding of my research.
+
+I'm writing to kindly request guidance on the best course of action in this situation. It's of utmost importance to me that I adhere to the journal's guidelines and ensure the successful review of my work.
+
+If there's an alternative method to submit these files, or if I need to modify them in any way, please do let me know. I'm committed to working together to find a solution that aligns with the journal's requirements and facilitates a thorough review process.
+
+For any further information or clarification, feel free to reach out to me directly at yycho@kribb.re.kr. Your prompt attention to this matter would be greatly appreciated.
+
 Feel free to use and adapt these scripts as needed for your research purposes. If you have any questions or need further assistance, please don't hesitate to reach out.
 
